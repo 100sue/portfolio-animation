@@ -1,7 +1,7 @@
-![dev-homme2](https://github.com/100sue/portfolio-animation/assets/90606431/88255fa5-1a75-405a-ba6d-18610b7b7814)## Projet : Portfolio Next Generation ##
+## Projet : Portfolio Next Generation ##
 
 <p align="center">
-<img src= "https://github.com/100sue/portfolio-animation/assets/90606431/f88805cc-3960-4498-8980-fee3bf1234f6"/>
+<img src= "(https://github.com/100sue/portfolio-animation/assets/90606431/88255fa5-1a75-405a-ba6d-18610b7b7814"/>
 </p>
 
 <br>
@@ -30,6 +30,12 @@ Un exemple de portfolio 2023 !!
 <br>
 
 
+<p align="center">
+<img src= "https://github.com/100sue/portfolio-animation/assets/90606431/f88805cc-3960-4498-8980-fee3bf1234f6"/>
+</p>
+
+<br>
+<br>
  ### Project  : Portfolio ###
 
 - Minimalism Style
@@ -42,6 +48,7 @@ Un exemple de portfolio 2023 !!
 - 3D Book Open Item Cards
 - Dynamic Portfolio with Animated Filters
 - Image Gallery Zoom Effect
+
 
 
 ## Technologies, software, languages, frameworks, plugins used : ##
