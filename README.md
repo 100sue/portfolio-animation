@@ -1,7 +1,7 @@
 ## Projet : Portfolio Next Generation ##
 
 <p align="center">
-<img src= "(https://github.com/100sue/portfolio-animation/assets/90606431/88255fa5-1a75-405a-ba6d-18610b7b7814"/>
+<img src= "https://github.com/100sue/portfolio-animation/assets/90606431/88255fa5-1a75-405a-ba6d-18610b7b7814"/>
 </p>
 
 <br>
