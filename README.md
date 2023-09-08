@@ -27,8 +27,6 @@ Un exemple de portfolio 2023 !!
 - Dependances : Bootstrap, Ionicons.
   
 <br>
-<br>
-
 
 <p align="center">
 <img src= "https://github.com/100sue/portfolio-animation/assets/90606431/f88805cc-3960-4498-8980-fee3bf1234f6"/>
@@ -36,7 +34,8 @@ Un exemple de portfolio 2023 !!
 
 <br>
 <br>
- ### Project  : Portfolio ###
+
+### Project  : Portfolio ###
 
 - Minimalism Style
 - Responsive Website
